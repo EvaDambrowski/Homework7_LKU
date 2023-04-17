@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Тестирование обучение\\C#\\homework7\\task47\\task47.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Тестирование обучение\\C#\\Homework_7\\task47\\task47.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Тестирование обучение\\C#\\homework7\\task47\\task47.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Тестирование обучение\\C#\\Homework_7\\task47\\task47.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Тестирование обучение\\C#\\homework7\\task47\\task47.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Тестирование обучение\\C#\\Homework_7\\task47\\task47.csproj",
         "projectName": "task47",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Тестирование обучение\\C#\\homework7\\task47\\task47.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Тестирование обучение\\C#\\Homework_7\\task47\\task47.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Тестирование обучение\\C#\\homework7\\task47\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Тестирование обучение\\C#\\Homework_7\\task47\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
